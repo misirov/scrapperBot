@@ -1,11 +1,11 @@
-﻿# scrapperBot
- This bot takes one or more command line arguments as <domain> and:
+# scrapperBot
+## This bot takes one or more command line arguments as <domain> and:
 
 - Navigates to a URL
 - Takes a screenshot and generates a .pdf
 - Merges all pdf's into one for easier reporting
 
-`git clone <this repo>`
+```git clone <this repo>```
 
 `npm install`
 

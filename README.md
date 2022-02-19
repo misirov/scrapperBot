@@ -1,5 +1,5 @@
 # scrapperBot
-## This bot takes one or more command line arguments as <domain> and:
+## This bot takes one or more command line arguments as `domains` and:
 
 - Navigates to a URL.
 - Takes a screenshot and generates a .pdf
